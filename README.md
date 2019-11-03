@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/lacyjpr/react-now-test.svg?branch=master)](https://travis-ci.com/lacyjpr/react-now-test)
+[![Greenkeeper badge](https://badges.greenkeeper.io/lacyjpr/landing.svg)](https://greenkeeper.io/)
 
 Simple test to learn how to deploy with Travis CI & Zeit Now
 
