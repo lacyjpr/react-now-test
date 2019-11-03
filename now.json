@@ -1,6 +1,6 @@
 {
     "build": {
-        "env": {
+        "headers": {
             "REACT_APP_NOW_TOKEN": "@react_app_now_token"
         }
     }
