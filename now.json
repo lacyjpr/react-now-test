@@ -1,7 +1,7 @@
 {
     "build": {
         "env": {
-            "TOKEN": "@now-token"
+            "REACT_APP_NOW_TOKEN": "@now-token"
         }
     }
 }
