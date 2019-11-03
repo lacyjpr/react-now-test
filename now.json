@@ -1,8 +1,7 @@
 {
     "build": {
         "env": {
-            "REACT_APP_SECRET_NAME": "@secret-name",
-            "REACT_APP_NOW_TOKEN": "@now-token"
+            "TOKEN": "@now-token"
         }
     }
 }
