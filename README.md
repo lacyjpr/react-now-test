@@ -1,3 +1,7 @@
+https://travis-ci.com/lacyjpr/react-now-test.svg?branch=master
+
+Simple test to learn how to deploy with Travis CI & Zeit Now
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
