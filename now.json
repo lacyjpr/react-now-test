@@ -1,7 +1,7 @@
 {
     "build": {
         "headers": {
-            "react_app_now_token": "@react_app_now_token"
+            "REACT_APP_TOKEN": "@react_app_now_token"
         }
     }
 }
