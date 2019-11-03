@@ -1,4 +1,4 @@
-https://travis-ci.com/lacyjpr/react-now-test.svg?branch=master
+[![Build Status](https://travis-ci.com/lacyjpr/react-now-test.svg?branch=master)](https://travis-ci.com/lacyjpr/react-now-test)
 
 Simple test to learn how to deploy with Travis CI & Zeit Now
 
