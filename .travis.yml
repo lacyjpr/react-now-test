@@ -12,13 +12,13 @@ before_deploy: npm install now --no-save # Install Now CLI on Travis
 
 deploy:
   - provider: script # Run a custom deployment script which we will define below
-    script: now --token @react_app_now_token
+    script: now --token @react_app_token
     skip_cleanup: true
     on:
       all_branches: true
       master: false
   - provider: script
-    script: now --token @react_app_now_token
+    script: now --token @react_app_token
     skip_cleanup: true
     on:
       master: true
